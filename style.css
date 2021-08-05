@@ -1,0 +1,17 @@
+body{
+    background-color:darkgray;
+}
+
+/* titulo do site */
+h1 {
+    color:blue;
+}
+/* subtitulo do site */
+h2 {
+    color:cornsilk;
+
+}
+
+img {
+width: 1000px;
+}
